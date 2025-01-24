@@ -1,5 +1,5 @@
 ---
-title:  "Our New Post"
+title:  "New Post"
 mathjax: true
 layout: post
 categories: media
