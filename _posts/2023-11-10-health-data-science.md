@@ -1,4 +1,4 @@
-title:  ""
+title:  "Health Data Science"
 mathjax: true
 layout: post
 categories: media
