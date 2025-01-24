@@ -4,7 +4,7 @@ title: ""
 ---
 <div style = "display: flex; align-items: center; gap: 20px;">
   <!-- Profile Picture -->
-  <div style="width: 200px; height: 200px; border-radius: 50%, overflow: hidden;">
+  <div style="width: 300px; height: 300px; border-radius: 50%, overflow: hidden;">
    <img src = "/assets/IMG_1430.jpeg" alt="Profile Picture" style="width: 100%; height: auto; object-fit: 
              cover;">
   </div>
