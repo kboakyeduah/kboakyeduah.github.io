@@ -1,4 +1,4 @@
-title:  "New Post"
+title:  ""
 layout: post
 categories: media
 ---
