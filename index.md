@@ -1,4 +1,4 @@
 ---
 layout: page
-title: "Welcome to my website"
+title: "Home"
 ---
