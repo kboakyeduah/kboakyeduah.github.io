@@ -10,7 +10,7 @@ title: ""
   </div>
   <!-- Text -->
  <div>
-<h2> style = "margin: 0;"> Hi there 👋🏽 </h2>
+<h2 style = "margin: 0;"> Hi there 👋🏽 </h2>
 <p style = "margin: 0; font-size: 16px; line-height: 1.5;">
   I am a data scientist who: </p>
 <ul style="font-size: 16px; line-height: 1.5; padding-left: 20px; margin-top: 10px;">
